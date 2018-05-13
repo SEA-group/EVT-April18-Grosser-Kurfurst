@@ -1,0 +1,9 @@
+<GGS002_150mm_SKC_28_RF_dead.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/secondary/GGS306_150mm_SKC28_RF_Space/lods/GGS306_150mm_SKC28_RF_Space_dead_lod1	</parent>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<nodefullVisual>	content/gameplay/germany/gun/secondary/GGS306_150mm_SKC28_RF_Space/GGS306_150mm_SKC28_RF_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGS002_150mm_SKC_28_RF_dead.model>

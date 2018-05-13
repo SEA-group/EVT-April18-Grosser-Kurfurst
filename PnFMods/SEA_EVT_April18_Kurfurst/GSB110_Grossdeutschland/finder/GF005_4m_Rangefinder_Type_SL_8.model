@@ -1,0 +1,9 @@
+<GF005_4m_Rangefinder_Type_SL_8.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/finder/GF302_4m_Rangefinder_Type_SL_8_Space/lods/GF302_4m_Rangefinder_Type_SL_8_Space_lod1	</parent>
+	<extent>	8.0000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/finder/GF302_4m_Rangefinder_Type_SL_8_Space/GF302_4m_Rangefinder_Type_SL_8_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF005_4m_Rangefinder_Type_SL_8.model>

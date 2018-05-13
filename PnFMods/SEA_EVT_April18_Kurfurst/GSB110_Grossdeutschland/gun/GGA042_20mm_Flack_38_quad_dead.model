@@ -1,0 +1,9 @@
+<GGA042_20mm_Flack_38_quad_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/aaircraft/GGA308_20mm_Flack_38_quad_Space/lods/GGA308_20mm_Flack_38_quad_Space_dead_lod1	</parent>
+	<extent>	3.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/gun/aaircraft/GGA308_20mm_Flack_38_quad_Space/GGA308_20mm_Flack_38_quad_Space_dead	</nodefullVisual>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA042_20mm_Flack_38_quad_dead.model>

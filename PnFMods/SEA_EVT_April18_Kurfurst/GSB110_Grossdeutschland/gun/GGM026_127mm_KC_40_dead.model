@@ -1,0 +1,9 @@
+<GGM026_127mm_KC_40_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/main/GGM305_127mm_KC_40_Space/lods/GGM305_127mm_KC_40_Space_dead_lod1	</parent>
+	<extent>	4.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/gun/main/GGM305_127mm_KC_40_Space/GGM305_127mm_KC_40_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGM026_127mm_KC_40_dead.model>

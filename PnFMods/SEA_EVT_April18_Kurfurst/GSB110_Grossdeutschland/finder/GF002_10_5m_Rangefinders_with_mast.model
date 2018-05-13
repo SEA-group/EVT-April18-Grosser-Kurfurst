@@ -1,0 +1,9 @@
+<GF002_10_5m_Rangefinders_with_mast.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/finder/GF300_10_5m_Rangefinders_Space/lods/GF300_10_5m_Rangefinders_Space_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/finder/GF300_10_5m_Rangefinders_Space/GF300_10_5m_Rangefinders_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GF002_10_5m_Rangefinders_with_mast.model>

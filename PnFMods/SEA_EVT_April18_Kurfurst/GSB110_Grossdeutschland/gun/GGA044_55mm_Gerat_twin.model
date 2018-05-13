@@ -1,0 +1,8 @@
+<GGA044_55mm_Gerat_twin.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/gun/aaircraft/GGA307_55mm_Gerat_Twin55_Space/lods/GGA307_55mm_Gerat_Twin55_Space_lod1	</parent>
+	<extent>	3.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/gun/aaircraft/GGA307_55mm_Gerat_Twin55_Space/GGA307_55mm_Gerat_Twin55_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA044_55mm_Gerat_twin.model>

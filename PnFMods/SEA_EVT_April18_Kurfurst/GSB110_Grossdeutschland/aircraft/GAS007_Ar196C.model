@@ -1,0 +1,9 @@
+<GAS007_Ar196C.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/aircraft/scout/GAS500_Star_Fighter_Space/lods/GAS500_Star_Fighter_Space_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/aircraft/scout/GAS500_Star_Fighter_Space/GAS500_Star_Fighter_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GAS007_Ar196C.model>

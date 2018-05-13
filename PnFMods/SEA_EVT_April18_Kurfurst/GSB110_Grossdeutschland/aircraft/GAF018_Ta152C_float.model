@@ -1,0 +1,9 @@
+<GAF018_Ta152C_float.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/germany/aircraft/fighter/GAF500_Star_Fighter_Space/lods/GAF500_Star_Fighter_Space_lod1	</parent>
+	<extent>	5.000000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/germany/aircraft/fighter/GAF500_Star_Fighter_Space/GAF500_Star_Fighter_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GAF018_Ta152C_float.model>
